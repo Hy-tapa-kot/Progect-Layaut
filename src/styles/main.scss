@@ -312,6 +312,14 @@ main {
     letter-spacing: 0;
     text-align: left;
   }
+  img {
+    transition: 0.5s;
+    display: block;
+    border-radius: 3px;
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
 }
 
 .plan-visit {
@@ -410,6 +418,7 @@ main {
   /* .view__gallery-picture */
 
   &__gallery-picture {
+    overflow: hidden;
     & img {
       background-size: cover;
       background-position: center;
@@ -470,6 +479,9 @@ main {
       background-position: center;
       border-radius: 3px;
     }
+  }
+  &__gallery-picture-travel-div {
+    overflow: hidden;
   }
 
   /* .view__gallery-picture-travel-text */
@@ -565,6 +577,10 @@ main {
     text-align: left;
     color: #000;
     text-decoration: none;
+    transition: 0.3s;
+    &:hover {
+      color: gray;
+    }
   }
 
   /* .contacts__form */
@@ -602,6 +618,7 @@ main {
   /* .contacts__form-message */
 
   &__form-message {
+    resize: none;
     height: 112px;
     border: none;
     background-color: #f8f8fa;
