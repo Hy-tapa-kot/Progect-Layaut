@@ -1,4 +1,4 @@
-# Layaut Page
+# Layout Page
 
 1.  Link to the preview [DEMO LINK](https://hy-tapa-kot.github.io/Progect-Layaut/)
 2.  Link to the mockup [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
