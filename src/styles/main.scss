@@ -482,6 +482,8 @@ main {
   }
   &__gallery-picture-travel-div {
     overflow: hidden;
+    display: flex;
+    justify-content: center;
   }
 
   /* .view__gallery-picture-travel-text */
