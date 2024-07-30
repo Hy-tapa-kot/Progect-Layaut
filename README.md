@@ -1,5 +1,7 @@
-# Layaut Page [DEMO LINK](https://hy-tapa-kot.github.io/Progect-Layaut/)
-1. Clone the Forked Repo
+# Layaut Page 
+1. [DEMO LINK](https://hy-tapa-kot.github.io/Progect-Layaut/)
+2. Link to the mockup [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
+3. Clone the Forked Repo
 Now you need to clone the forked project to your computer. Follow the next steps (and see screenshots below):
     - Click the green Code button.
     - Select the HTTPS tab.
@@ -11,6 +13,7 @@ Now you need to clone the forked project to your computer. Follow the next steps
     
     ` git clone replace-this-with-the-URL-from-github `
 
-2. Open the Terminal
-3. `npm install` (or just `npm i`).
-4. `npm start`to Open the Page
+4. Open the Terminal
+5. `npm install` (or just `npm i`).
+6. `npm start`to Open the Page
+
