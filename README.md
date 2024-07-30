@@ -1,5 +1,5 @@
 # Layaut Page 
-1. [DEMO LINK](https://hy-tapa-kot.github.io/Progect-Layaut/)
+1. Link to the preview [DEMO LINK](https://hy-tapa-kot.github.io/Progect-Layaut/)
 2. Link to the mockup [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
 3. Clone the Forked Repo
 Now you need to clone the forked project to your computer. Follow the next steps (and see screenshots below):
