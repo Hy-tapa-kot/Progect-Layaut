@@ -12,6 +12,5 @@ Now you need to clone the forked project to your computer. Follow the next steps
     ` git clone replace-this-with-the-URL-from-github `
 
 2. Open the Terminal
-    - Open the Terminal  "ctrl + "`" (Windows) or "cmd +  ` " (MacOS).
 3. `npm install` (or just `npm i`).
 4. `npm start`to Open the Page
