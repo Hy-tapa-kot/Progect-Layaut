@@ -16,4 +16,5 @@ Now you need to clone the forked project to your computer. Follow the next steps
 4. Open the Terminal
 5. `npm install` (or just `npm i`).
 6. `npm start`to Open the Page
-
+# A description of the project
+The project used only html and used the scss preprocessor instead of css
