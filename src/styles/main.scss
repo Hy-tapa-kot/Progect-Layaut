@@ -654,6 +654,21 @@ main {
       background: #ae1c23;
     }
   }
+
+  &__communications--address {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0;
+    text-align: left;
+    margin-top: 5px;
+    color: #000;
+    transition: 0.3s;
+    cursor: pointer;
+    &:hover {
+      color: gray;
+    }
+  }
 }
 
 .img-footer {
