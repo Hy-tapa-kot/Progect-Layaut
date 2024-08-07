@@ -1,16 +1,42 @@
-# Layout Page
+# 🎨 Layout Page
 
 1.  Link to the preview [DEMO LINK](https://hy-tapa-kot.github.io/Project-Layout/)
 2.  Link to the mockup [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-3.  Clone the Forked Repo
-    Now you need to clone the forked project to your computer. Follow the next steps (and see screenshots below): - Click the green Code button. - Select the HTTPS tab. - Ensure the link contains your GitHub name (NOT mate-academy). - Copy the link. - Open Git Bash (Windows) or ZSH (macOS) in your projects folder (You installed it in the Git and Terminal course). - Run pwd in the terminal to check that you are in the projects folder. - Clone the repo by running the git clone command with the URL you copied on GitHub.
 
-        ` git clone replace-this-with-the-URL-from-github `
+Interactive Tools: Our website offers a variety of tools to enhance your visit.
+Online Collection: Browse through our extensive collection areas online, where you can study, exhibit, and care for the objects in our museum from the comfort of your home.
+Travel with the Museum: Connect with art, inspiration, and historical perspectives through our travel programs, bringing you closer to the world of art.
+Virtual Group Tours: Request a guided tour, reserve admission and lead your own small group, or enjoy a live virtual tour led by one of our expert Museum guides.
 
-4.  Open the Terminal
-5.  `npm install` (or just `npm i`).
-6.  `npm start`to Open the Page
+## 🌟 Built With
 
-# A description of the project
+- **HTML**: The standard markup language for creating web pages. [Homepage](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- **SCSS**: A CSS preprocessor that enhances CSS with nested rules, variables, and more. [Homepage](https://sass-lang.com/)
 
-The project used only html and used the scss preprocessor instead of css
+## 🚀 Getting Started
+
+To get the project up and running:
+
+1. **Repository Clone**:
+
+   ```sh
+   git clone https://github.com/Hy-tapa-kot/Project-Layout.git
+   ```
+
+2. **Project Directory**:
+
+   ```sh
+   cd Project-Layout
+   ```
+
+3. **Dependencies Installation**:
+
+   ```sh
+   npm install
+   ```
+
+4. **Development Server**:
+
+   ```sh
+   npm start
+   ```
